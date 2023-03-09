@@ -51,4 +51,3 @@ would be extremely absorbing for me to work in an international environment.
 * Kampania Woman Update - Future Collars
 * Kariera w IT - jaką ścieżkę wybrać? - Future Collars
 * Testowanie REST API dla początkujących - akademiaqa.pl
-* 
