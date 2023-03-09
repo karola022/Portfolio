@@ -1,2 +1,2 @@
-# Portfolio
-My tester's portfolio 
+# My Tester Portfolio
+Karolona Kowalczyk 
