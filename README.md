@@ -12,12 +12,12 @@ would be extremely absorbing for me to work in an international environment.
 * SQL
 * GIT
 * XRAY
+* Scrum, Agile
 * MS Office tools
 * Instant platforms ( Wechat, Google Meet, Teams, Messenger, Zoom)
 * Creating test cases
 * Software testing
 * Bug reports
-* Scrum, Agile
 
 # Soft skills
 * Independence and accuracy
