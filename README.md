@@ -53,6 +53,6 @@ would be extremely absorbing for me to work in an international environment.
 * Testowanie REST API dla początkujących - akademiaqa.pl
 
 # Test Plan
-[Airbnb search e.](https://github.com/karola022/Portfolio.wiki.git)
+[Airbnb search en.](https://docs.google.com/document/d/1Yy6sA0gNywQ3C3Z8EiK_jIw3a7V1SsapYeEijxxY0_0/edit?usp=sharing)
 # Test Cases
 [Low level cases - maxizoo.pl](https://docs.google.com/document/d/1Dk7pe1SSGNgS7GZuRp4q9b2oHPWP94ZJ6qDoTYXUvx4/edit?usp=sharing) 
