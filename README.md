@@ -55,4 +55,4 @@ would be extremely absorbing for me to work in an international environment.
 # Test Plan
 
 # Test Cases
-http://localhost/testlink/ltx.php?item=exec&feature_id=1&build_id=1
+Low level cases - maxizoo.pl http://localhost/testlink/ltx.php?item=exec&feature_id=1&build_id=1
