@@ -1,9 +1,9 @@
 # Karolina Kowalczyk 
 My name is Karolina and I am a beginner manual tester. I am looking for my first professional
-experience. I completed the "Software Tester" bootcamp at Future Collars. I am
+experience. I completed the "Software Tester" bootcamp at Future Collars. In addition, I am
 interested in the IT industry, especially testing and the profession of UX designer. I am keen to learn more about the sector, gain
 experience as a manual tester and obtain knowledge of new technologies. I
-value cooperation and easily establish contacts. In addition, I graduated with a
+value cooperation and easily establish contacts. What is more, I graduated with a
 bachelor's degree in Asian Studies. Asian countries are my passion, and it
 would be extremely absorbing for me to work in an international environment.
 
