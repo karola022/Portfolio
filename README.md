@@ -56,5 +56,5 @@ would be extremely absorbing for me to work in an international environment.
 [Airbnb search en.](https://docs.google.com/document/d/1Yy6sA0gNywQ3C3Z8EiK_jIw3a7V1SsapYeEijxxY0_0/edit?usp=sharing)
 
 # Test Cases
-*[Airbnb search en.](https://docs.google.com/spreadsheets/d/1nYqIkpA3WqM1HP7eOgEOrDMeg3UF66OTCdkpCDTqnIM/edit?usp=sharing)
-*[Low level cases - maxizoo.pl](https://docs.google.com/document/d/1Dk7pe1SSGNgS7GZuRp4q9b2oHPWP94ZJ6qDoTYXUvx4/edit?usp=sharing) 
+* [Airbnb search en.](https://docs.google.com/spreadsheets/d/1nYqIkpA3WqM1HP7eOgEOrDMeg3UF66OTCdkpCDTqnIM/edit?usp=sharing)
+* [Low level cases - maxizoo.pl](https://docs.google.com/document/d/1Dk7pe1SSGNgS7GZuRp4q9b2oHPWP94ZJ6qDoTYXUvx4/edit?usp=sharing) 
